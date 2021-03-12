@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Problems/Right equation/out/
+/Problems/Right equation/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
